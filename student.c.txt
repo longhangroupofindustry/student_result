@@ -1,5 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
+void input();
+void calculate();
 void main()
 {
 	int m1,m2,m3,m4,m5,total;
